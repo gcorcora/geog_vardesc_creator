@@ -18,7 +18,7 @@ To create this, one would need to create the inputs subfolder and generate a .tx
 ## Requirements
 
 - Shell script requires conda environment `var_desc_geog`, which is owned by Gretchen Corcoran (gcorcora) and has necessary libraries loaded. If one needs to be created in future, libraries used included docx, argparse, os, sys, traceback, pandas, re, textwrap. May also need to load openpyxl depending on the pandas version.
--Python 3.x required
+- Python 3.x required
 
 ## Usage
 
