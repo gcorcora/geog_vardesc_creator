@@ -1,4 +1,4 @@
-##NOTE: This README is part of a broader pipeline, which I did not create, the README references part of that pipeline.
+## NOTE: This README is part of a broader pipeline, which I did not create, the README references part of that pipeline.
 
 # DHS Geography Variable Description Creator
 
